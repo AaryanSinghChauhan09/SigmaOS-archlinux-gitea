@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-gitea"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-gitea component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
